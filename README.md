@@ -5,7 +5,7 @@ Written by ChatGPT, not me.
 
 ## Requirements
 - Python
-- Dependencies in `requirements.txt``
+- Dependencies in `requirements.txt`
 
 ## Usage
 - Create a virtual environment if you want (`uv venv .venv` or whatever), then activate it. (This is absolutely optional).
@@ -37,7 +37,7 @@ pip install -r requirements.txt
     - It might ask you whether to prepend or append the URLs - whether a new run should add URLs to the start or end of the file. **Generally, for a linear timeline, you want to append,** so: `a`.
     - It will take some time in the end to **unbookmark** the fetched bookmarks. Each time 10 new bookmarks are unbookmarked, it will print a message.
 
-- To run the script:
+- Run the script until you have all your bookmarks extracted:
 ```bash
 python main.py
 ```

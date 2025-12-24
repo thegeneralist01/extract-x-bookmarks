@@ -1,0 +1,7 @@
+*
+!.gitignore
+!LICENSE
+!README.md
+!isolate_cookies.py
+!main.py
+!requirements.txt
